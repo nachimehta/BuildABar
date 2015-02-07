@@ -1,0 +1,639 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"apich",
+				"apicharacters"
+			],
+			[
+				"device",
+				"deviceInfo"
+			],
+			[
+				"or",
+				"orderConfirmation"
+			],
+			[
+				"ord",
+				"orderConfirmation"
+			],
+			[
+				"apple",
+				"appleCareOrderDetails"
+			],
+			[
+				"appl",
+				"appleCareResponseBody"
+			],
+			[
+				"receipt",
+				"receiptDisplayObj"
+			],
+			[
+				"functi",
+				"functionName"
+			],
+			[
+				"DB",
+				"DBRead"
+			],
+			[
+				"ODW",
+				"ODWVerifyReturnArr"
+			],
+			[
+				"verif",
+				"verifyResult"
+			],
+			[
+				"getOrd",
+				"getOrdObj  (function)"
+			],
+			[
+				"insur",
+				"InsuranceDependencyInjector  (class)"
+			],
+			[
+				"OrderClas",
+				"OrderClassTest  (class)"
+			],
+			[
+				"setOr",
+				"setOrdObj  (function)"
+			],
+			[
+				"insurance",
+				"insuranceDependencyObject  (variable)"
+			],
+			[
+				"Get",
+				"GetDeviceId"
+			],
+			[
+				"insuran",
+				"insuranceDependencyObject"
+			],
+			[
+				"get",
+				"getOrdObj  (function)"
+			],
+			[
+				"index",
+				"indexArr  (variable)"
+			],
+			[
+				"cus",
+				"customerObj"
+			],
+			[
+				"ke",
+				"keyfile"
+			],
+			[
+				"cert",
+				"certArray"
+			],
+			[
+				"acc",
+				"accAccessToken"
+			],
+			[
+				"URI",
+				"URIArray"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"selected_items":
+		[
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"sublimeH",
+				"SublimeHg: Open Menu"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"SublimeHg",
+				"SublimeHg: Open Menu"
+			],
+			[
+				"Mercurial",
+				"Set Syntax: Mercurial Log"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Git",
+				"Git: Commit"
+			],
+			[
+				"Git Sta",
+				"Git: Status"
+			],
+			[
+				"GitS",
+				"Git: Status"
+			],
+			[
+				"gi",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"hash -r",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/haaduken/Projects/Homestead/Laravel"
+	],
+	"file_history":
+	[
+		"/Users/haaduken/Projects/ZC/zerocater/zerocater/settings.py",
+		"/Users/haaduken/Consensus/POA/htdocs/inc/classes/insurance/applecare/applecareinsuranceclass.php",
+		"/Users/haaduken/Projects/ZC/zc",
+		"/Users/haaduken/Documents/git vs hg.docx",
+		"/Users/haaduken/Projects/mean-vagrant/src/test.js",
+		"/var/folders/lw/c_00_38s0_x10jk3zqr8p4100000gn/T/sublime-sftp-browse-1414175047/mapped/home/vagrant/src/test.js",
+		"/Users/haaduken/Documents/nimbu.js",
+		"/Users/haaduken/Documents/landing.css",
+		"/Users/haaduken/Documents/landing.html",
+		"/Users/haaduken/Desktop/prod.AppleCarePrivateKey.pem",
+		"/Users/haaduken/Downloads/activationRespose_35034385374_2014-10-13_05-51-18_EXTERNAL_0.xml",
+		"/Users/haaduken/Downloads/activationRequest_35034385374_2014-10-13_05-51-18_EXTERNAL_0.xml",
+		"/Users/haaduken/Documents/JaimeConvo.txt",
+		"/Users/haaduken/Downloads/JStokes.html",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/customerclass.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/constants.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/admin/reports/calltracking/calloutcome_optimized.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/shipadmin/frames/customerCreditInfo.htm",
+		"/Users/haaduken/Consensus/applecare/shtdocs/wiredproducts/addresscheck.htm",
+		"/Users/haaduken/Consensus/applecare/shtdocs/js/addresscheckprocess.js",
+		"/Users/haaduken/Consensus/applecare/shtdocs/inc/addressnormalizationfunctions.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/addressvalidationfunctions.php",
+		"/Users/haaduken/Consensus/applecare/db/release/13.6/add_default_device_types.sql",
+		"/Users/haaduken/Consensus/applecare/bin/daemon/asyncprocess_dispatch.php",
+		"/Users/haaduken/Consensus/applecare/users/accountingeditusers",
+		"/Users/haaduken/Consensus/applecare/users/custservusers",
+		"/Users/haaduken/Consensus/applecare/db/release/13.3/checkout_updates_supplement.sql",
+		"/Users/haaduken/Consensus/applecare/db/zipmappingbackup/Cingular-UNY.txt",
+		"/Users/haaduken/Consensus/applecare/bin/commondir",
+		"/Users/haaduken/Consensus/applecare/shtdocs/popups/additional_plan.htm",
+		"/Users/haaduken/Consensus/applecare/shtdocs/popups/rebatestatusglossary_popup.htm",
+		"/Users/haaduken/Consensus/applecare/README.txt",
+		"/Users/haaduken/Consensus/applecare/shtdocs/admin/reports/data/items-no-cost.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/admin/thirdpartyoperations/ops2tpspcontroller.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/thirdparty/velaro/processchatxml.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/thirdparty/phpprintipp/BasicIPP.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/admin/thirdpartyoperations/addops.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/thirdparty/SpreadsheetReader_XLSX.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/admin/reports/orders/thirdpartyfailurereport.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/brands/LTDB/inc/topnavbarspecial_holiday.php",
+		"/Users/haaduken/Consensus/applecare/users/testreportusers",
+		"/Users/haaduken/Consensus/applecare/shtdocs/roadamerica_enhterms_conditions.htm",
+		"/Users/haaduken/Consensus/applecare/users/returnsusers",
+		"/Users/haaduken/Consensus/applecare/bin/retailstoreupdate.exp",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/orderclass/orderproductclass.php",
+		"/Users/haaduken/Consensus/applecare/db/zipmappingbackup/sprint-abilene.txt",
+		"/Users/haaduken/Consensus/applecare/shtdocs/admin/competitivepricingtool/mapWebSitePrIds.php",
+		"/Users/haaduken/Consensus/applecare/db/release/10.4/bug63370_string_POPRT_RETURNSPOLICY.sql",
+		"/Users/haaduken/Consensus/applecare/db/zipmappingbackup/sprint-peoria.txt",
+		"/Users/haaduken/Consensus/applecare/sftp-config.json",
+		"/Users/haaduken/Consensus/applecare/users/engineers",
+		"/Users/haaduken/Consensus/applecare/shtdocs/retail/checkout/view/sprintesa.htm",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/orderclass/sprinteasypay.sublime-project",
+		"/Users/haaduken/Consensus/applecare/testdocs/carrierresponder/att/templates/response/swapequipment/error_priceplan_offer_code_not_supported.xml",
+		"/Users/haaduken/Consensus/applecare/db/release/13.5/post_release_unselectable_change.sql",
+		"/Users/haaduken/Consensus/applecare/db/release/7.5/populateCCNHash.php",
+		"/Users/haaduken/Consensus/applecare/testdocs/db/release/1.1.19/populate_customers.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/numberPortabilityChecklist.php",
+		"/Users/haaduken/Consensus/applecare/db/bin/restore_productdb.sh",
+		"/Users/haaduken/Consensus/applecare/shtdocs/retail/ROPC-printout-2.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/applecarefunctions.php",
+		"/Users/haaduken/Consensus/applecare/users/dataengineers",
+		"/Users/haaduken/Consensus/applecare/db/zipmappingbackup/sprint-delrio-eaglepass.txt",
+		"/Users/haaduken/Consensus/applecare/db/bin/devicecontractdiscounthistories.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/retail/orderassembly/deviceapps.htm",
+		"/Users/haaduken/Consensus/applecare/shtdocs/admin/mapping/discounts/listDevicePricesByDevice.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/devicetypefunctions.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/retail/InPowered/inpoweredinventoryserviceclass.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/login/inpoweredlogin.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/api/inpoweredrequesthandler.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/retail/receiptscan.htm",
+		"/Users/haaduken/Consensus/applecare/shtdocs/receiptterms.htm",
+		"/Users/haaduken/Consensus/applecare/shtdocs/raf",
+		"/Users/haaduken/Consensus/applecare/shtdocs/MacStylSh.css",
+		"/Users/haaduken/Consensus/applecare/shtdocs/admin/inc/docsdirfunctions.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/checkfuturestatus.htm",
+		"/Users/haaduken/Consensus/applecare/test/inc/simpletest/HELP_MY_TESTS_DONT_WORK_ANYMORE",
+		"/Users/haaduken/Consensus/applecare/shtdocs/fbconnect/share_test.php",
+		"/Users/haaduken/Consensus/applecare/db/zipmappingbackup/sprint-hartford.txt",
+		"/Users/haaduken/Consensus/applecare/db/release/10.6-/SprintASLSupport.sql",
+		"/Users/haaduken/Consensus/applecare/bin/shipadminqueuepurgeviacancellation.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/retail/checkout/view/receipt.htm",
+		"/Users/haaduken/Consensus/applecare/shtdocs/retail/checkout/receipt.htm",
+		"/Users/haaduken/Consensus/applecare/shtdocs/retail/view/receiptscan.htm",
+		"/Users/haaduken/Consensus/applecare/shtdocs/js/retail/receiptscan.js",
+		"/Users/haaduken/Consensus/applecare/shtdocs/retail/home.htm",
+		"/Users/haaduken/Consensus/applecare/shtdocs/js/retailfeaturejs.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/retail/index.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/republicinvitation.htm",
+		"/Users/haaduken/Consensus/applecare/shtdocs/custserv/receipt.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/checkoutnew/receipt.htm",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/FacebookPhoneRecEngine.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/insurance/insuranceproductmanagementclasstest.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/insurance/insuranceproductmanagementclass.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/insurance/insuranceinterface.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/insurance/insurancefactory.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/insurance/insurancedependencyinjector.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/insurance/insuranceclass.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/shipadmin/reports/insurance.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/custserv/openOrderInSessiondb.php",
+		"/Users/haaduken/Consensus/applecare/users/inventoryusers",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/insurance/applecare/applecareclienttest.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/insurance/applecare/applecareclass.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/insurance/applecare/applecareinsuranceclasstest.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/insurance/applecare/applecareinsuranceclass.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/insurance/applecare/applecareinsurancemanagementclass.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/shared/appconfig.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/insurance/applecare/applecareinsurancemanagementclasstest.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/login/nopartnerlogin.php",
+		"/Users/haaduken/Consensus/applecare/test/htdocs/inc/classes/insurance/applecare/applecareinsurancemanagementclass.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/insurance/esecuritel/esecuritelinsurancemanagementclass.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/login/login.php",
+		"/Users/haaduken/Consensus/applecare/bin/hglog",
+		"/Users/haaduken/Consensus/applecare/test/inc/simpletest/test/http_test.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/dcOpen.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/external/tax/avalara/AvaTax4PHP/classes/DocStatus.class.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/aafesfunctions.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/navigationfunctions.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/calculatediscount.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/ArrayUtility.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/LinkTag.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/shopclass.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/ServerConfigUtility.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/MagicErrorShieldedObject.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/orderclass/orderproductclasstest.php",
+		"/Users/haaduken/Consensus/applecare/htdocs/inc/classes/orderclass/orderclasstest.php",
+		"/Users/haaduken/Consensus/applecare/test/htdocs/inc/classes/insurance/applecare/insurancevendormanagementclass.php",
+		"/Users/haaduken/Consensus/applecare/shtdocs/retail/orderassembly/controller/process.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"htdocs/inc/classes/insurance/applecare",
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"STATIC_ROOT",
+			"addrTypeIdToAddrId",
+			"$orderData[custId]",
+			"\"$orderData[custId]\"",
+			"$orderData[custId]",
+			"orderData",
+			"equipment",
+			"customerObj",
+			"name",
+			"appPOC",
+			"address",
+			"customer",
+			"address",
+			"customer",
+			"appleCareOrderDetails",
+			"appleCareOrderItemDetails",
+			"activeDeviceProducts",
+			"indexContents",
+			"deviceList",
+			"deviceInfo",
+			"extraInfoArray",
+			"$deviceObj->prId",
+			"productgetbytype",
+			"OrderItemInfosTableArray_ByIndex",
+			"orderItemInfoArr",
+			"prId",
+			"devices",
+			"deviceObj",
+			"$ordObj",
+			"$ordId",
+			"ordId",
+			"ap",
+			"INSURANCE",
+			"applecarereceipt",
+			"appPOC",
+			"GetOriginalDeviceId",
+			"view=financing",
+			"addDevice",
+			"return",
+			"date",
+			"BuildCreateBody",
+			"Verify",
+			"/htdocs/inc/classes",
+			"StatusCheck",
+			"$this->Verify",
+			"StatusCheck($",
+			"Cancel",
+			"CreateRMAListOrders",
+			"RMACreatorRetail",
+			"insuranceDependencyObject",
+			"inSURANCE",
+			"date",
+			"time",
+			"Now",
+			"now",
+			"align",
+			"alignment",
+			"GetDeviceId",
+			"WarrantyStatusCheck",
+			"->GetStatus",
+			"GetStatus",
+			"getOrdObj",
+			"directoryfunctions.php",
+			"directory",
+			"isExcha",
+			"InsuranceVendorManager",
+			"var_dump",
+			"var",
+			"https://gsx",
+			"align",
+			"var_dump",
+			"var_d",
+			"ServiceValidation",
+			"SWSMO.08f",
+			"SWSMO",
+			"SWSMA.07a",
+			"$this->JSONIndent",
+			"JSONIndent",
+			"AppleCare",
+			"$this->JSONIndent",
+			"JSON",
+			"indent",
+			"Log",
+			"LogXML",
+			"mercurial",
+			"hg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"project": "buildabeer.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"customercla",
+				"htdocs/inc/classes/customerclass.php"
+			],
+			[
+				"const",
+				"htdocs/inc/constants.php"
+			],
+			[
+				"customerclas",
+				"htdocs/inc/classes/customerclass.php"
+			],
+			[
+				"address",
+				"htdocs/inc/classes/addressclass.php"
+			],
+			[
+				"customer",
+				"htdocs/inc/customerfunctions.php"
+			],
+			[
+				"applecareins",
+				"htdocs/inc/classes/insurance/applecare/applecareinsuranceclass.php"
+			],
+			[
+				"rpoc",
+				"shtdocs/retail/ROPC-printout-2.php"
+			],
+			[
+				"insurancere",
+				"htdocs/inc/classes/insurance/insurancereceiptdisplay.php"
+			],
+			[
+				"",
+				"shtdocs/retail/checkout/view/applecarereceipt.htm"
+			],
+			[
+				"applecarere",
+				"shtdocs/retail/checkout/view/applecarereceipt.htm"
+			],
+			[
+				"sprintes",
+				"shtdocs/retail/checkout/view/sprintesa.htm"
+			],
+			[
+				"sprintesa",
+				"shtdocs/retail/checkout/view/sprintesa.htm"
+			],
+			[
+				"applecarefun",
+				"htdocs/inc/applecarefunctions.php"
+			],
+			[
+				"consta",
+				"htdocs/inc/constants.php"
+			],
+			[
+				"shtdocs/retail/receipt",
+				"shtdocs/retail/checkout/view/receipt.htm"
+			],
+			[
+				"insurance",
+				"htdocs/inc/classes/insurance/insurancevendormanagementclass.php"
+			],
+			[
+				"applecare",
+				"htdocs/inc/classes/insurance/applecare/applecareinsuranceclass.php"
+			],
+			[
+				"inpo",
+				"htdocs/inc/classes/login/inpoweredlogin.php"
+			],
+			[
+				"apple",
+				"htdocs/inc/classes/insurance/applecare/applecareinsurancemanagementclass.php"
+			],
+			[
+				"appconf",
+				"htdocs/inc/shared/appconfig.php"
+			],
+			[
+				"applecareinsurance",
+				"htdocs/inc/classes/insurance/applecare/applecareinsurancemanagementclass.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Consensus/applecare/htdocs/inc/classes/orderclass/sprinteasypay.sublime-project"
+			],
+			[
+				"spri",
+				"~/Consensus/applecare/htdocs/inc/classes/orderclass/sprinteasypay.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
